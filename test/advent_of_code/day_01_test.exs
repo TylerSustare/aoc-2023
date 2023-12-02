@@ -27,6 +27,6 @@ defmodule AdventOfCode.Day01Test do
 
     result = part2(input)
 
-    assert result
+    assert result == 281
   end
 end
